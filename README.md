@@ -1,6 +1,7 @@
-# News Media
-Made with MVVM architecture, newsapi.org , room database
-
+```
+This repo contains the backend code for NEWS MEDIA APPLICATION.
+```
+<!-- Description -->
 ## Description
 Its a news application where the news are fetched from an api namely newsapi.org and the user can save a particlar news in the local database
 
@@ -16,3 +17,25 @@ Its a news application where the news are fetched from an api namely newsapi.org
 4. Saved news Screen where the news saved are available
 5. Deleting a news from the saved news just by swiping left or right
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+Simply fork the repo. Clone it into your machine and let AndroidStudio handle the rest.
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "feature-request".
+Don't forget to give the project a star! Thanks again!
+
+__NOTE -> Every PR will be reviewed before merging.__
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+#### PLEASE MAKE SURE TO REMOVE THE .idea/ files before pushing a commit
